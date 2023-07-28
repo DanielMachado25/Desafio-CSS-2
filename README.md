@@ -7,3 +7,4 @@
 <br>
 <p>HTML</p>
 <p>CSS</p>
+<img src="https://github.com/DanielMachado25/Projeto-Easy-Shopping/blob/main/img/easy.png?raw=true"/>
